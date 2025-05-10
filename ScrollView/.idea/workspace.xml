@@ -22,7 +22,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a3419da-29e8-4709-a740-bd0b4a2dbd65" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../WebView/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebView/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../Firebase/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Firebase/app/src/main/java/com/example/firebase/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Firebase/app/src/main/java/com/example/firebase/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GridView2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GridView2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RadioButton/app/src/main/java/com/example/radiobutton/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RadioButton/app/src/main/java/com/example/radiobutton/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebView/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebView/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +53,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2tFohFYz9h4sqkiPRP59vF4y5ID" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -65,7 +69,10 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">

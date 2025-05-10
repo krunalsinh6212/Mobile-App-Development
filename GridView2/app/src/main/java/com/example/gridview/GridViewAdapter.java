@@ -30,7 +30,7 @@ public class GridViewAdapter extends ArrayAdapter<Model> {
             itemView = LayoutInflater.from(getContext()).inflate(R.layout.card_item,parent,false);
         }
         Model model = getItem(position);
-        TextView textView = itemView.findViewById(R.id.texyView);
+        TextView textView = itemView.findViewById(R.id.textView);
         ImageView imageView = itemView.findViewById(R.id.imageview);
         if (model != null){
             textView.setText(model.getName());
